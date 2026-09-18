@@ -2,7 +2,7 @@
 
 # Agent Skills for Beginners
 
-**Languages:** [English](README.md) · [简体中文](README_zh.md)
+**Languages:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Deutsch](README_de.md) · [Français](README_fr.md) · [Español](README_es.md) · [한국어](README_ko.md) · [Português](README_pt.md) · [Русский](README_ru.md) · [العربية](README_ar.md)
 
 <p align="center">
   <a href="https://ailesson.io/courses/agent-skills-for-beginners">
@@ -22,7 +22,25 @@ Across this Course, you will follow one complete, Course-prepared task: turn a s
 
 Testing the first Skill version reveals that a saved method still needs evidence, not trust. You will inspect the first run, trace two general changes back to what happened, read the exact revised `SKILL.md`, and compare two fresh quiz conversations before deciding whether more revision is supported.
 
-AILesson does not provide a free-text Skill editor. The Course supplies the exact syntax, passages, execution records, and revised standard file. You inspect the real choices and evidence that shaped that standard, then can transfer the tested package to a local Agent that supports Skills. A person still needs to approve installation and check future questions against the supplied material. No programming experience is required.
+The Course supplies the exact syntax, passages, execution records, and revised standard file. You inspect the real choices and evidence that shaped that standard, then can transfer the tested package to a local Agent that supports Skills. A person still needs to approve installation and check future questions against the supplied material.
+
+## Frequently asked questions
+
+### Do I need programming experience?
+
+No. Familiarity with ordinary AI chat is enough. The Course explains the relevant file structure and syntax when they first appear.
+
+### Do I need a Skill editor or a compatible Agent?
+
+Not to complete the Course. AILesson supplies the tested `SKILL.md` and the evidence needed to inspect it rather than asking you to install it. To use the package afterward, you need a local Agent that supports Agent Skills, and you should review the file before installation.
+
+### Can I use my own learning material?
+
+The Course uses prepared passages so everyone can inspect the same evidence. Afterward, you can apply the method to material you own or are allowed to share, while checking that every question and explanation stays within that material.
+
+### What will I have completed by the end?
+
+You will have judged when a repeated task deserves a Skill, inspected a complete `SKILL.md`, and compared real test runs. You will not have independently authored or installed a personal Skill, and passing tests does not guarantee every future run.
 
 ## Lessons
 
